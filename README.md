@@ -4,6 +4,10 @@
 <h3 align="center">A passionate frontend developer and Penetration Tester.</h3>
 
 - 🔭 I’m currently working on Full stack web Development **NETFLIX CLONE.**
+- 🤝 Looking to collaborate on UI/UX Designing and Full stack web Development. 
+- 🌱 I'm learning Penetration testing and cyber security. 
+- 💬 Ask me about UI/UX, FIGMA, WEBFLOW, FREELANCING. 
+- ⚡ FUN FACT : Love bikes. 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
